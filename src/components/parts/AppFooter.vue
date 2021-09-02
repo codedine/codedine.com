@@ -38,10 +38,11 @@
           <h2 class="title-font text-lg font-medium mb-3">CONTACT US:</h2>
           <div class="mb-5">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia
-              nostrum numquam repudiandae. Beatae cupiditate deserunt magni
-              nulla officia, porro. Architecto delectus eius, inventore laborum
-              nam optio reprehenderit suscipit tempora voluptatibus!
+              Please feel free to send
+              <a href="mailto:codedine94@gmail.com">Email</a> to contact us
+              about anything you want. You can also reach me on
+              <a target="_blank" href="https://twitter.com/xqsit94">Twitter</a>
+              with any feedback you have or if you just want to say 👋
             </p>
           </div>
         </div>

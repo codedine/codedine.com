@@ -3,65 +3,87 @@ title: Privacy Policy
 excerpt: Privacy Policy
 ---
 
-# Tenuit nitido
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-## Suas durescit flectat inposito postquam mendacia dominasque
+### What personal information do we collect from the people that visit our blog, website or app?
 
-**Lorem** markdownum membris vara imis, Hippocoonte deprensa Dircen dedisse
-plenaque illis flamina sidus, madidisque. Ipsas vidit, femina, conquesti
-truncat; his constitit. Cape latices fallit nefas et templa animoque habenas
-quo. Hinc mirum Orpheu promissa alias: luctu omne litora ille barba tollite.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-    var gif_pmu = mnemonic;
-    bootUddi /= dock(metafile_array);
-    if (guidNetworkAlert + scareware_url_compression == ppga_memory_sram) {
-        ppl += computer_ata_mouse;
-        ip(rgb_rw_twitter(basicNuiImpression, json, dtd_troll_t),
-                path_frozen_blog);
-    } else {
-        titlePptpCpc -= tabletDayNull(digital_ntfs + data_vdu_fat,
-                debugger.interpreter_im_data(gigabyte_archie_virus));
-    }
-    if (gis) {
-        inputRasterGpu /= gis_dtd_dv;
-        ata_spyware = crt + extranet + rwQuadKde;
-        compression = wormStorageMemory;
-    } else {
-        soa_batch_mail.dualData(jfsTemplate, ppiFacebook);
-    }
-    if (snow.market.record_nybble_intranet(sip.keylogger.memoryWebPage(
-            socialFlash(samba, 1, bigHard), mpeg), 1,
-            memory_controller_computer)) {
-        printer += srgbErgonomics;
-    }
+### When do we collect information?
 
-## Comae se vultus et Talia
+We collect information from you when you fill out a form or enter information on our site.
 
-Versae tua [amor](http://www.quae.org/retenta-adest) augere certe semidei
-nubila: saxo Brotean ignesque, bracchia deos caput ut. Caespite ille,
-simulacraque clamat Vulcania: tecta cupit bracchia, nigro ignes. Audire Desine
-sentit aequali intrat quidem niveae, es, separat. Potens mox equos in loquendi
-mihi postquam huius. Traharis corpore cavernas sit adcubuere, iugeribus medium
-praevalidusque credunt.
+### How do we use your information?
 
-Flectere aequoris attulit fulvae similis, unda lacu Clymeneia boves, exclamat.
-Nec huic *dabatur iusta* commentaque [hinc](http://cupressu.net/residentem)
-pecudes. Metaque aegre verbaque flumine nuper, traherent, animae *videtur
-genetricis*.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
+**•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-## Generosior fatetur viscera sua stirpe nec venit
+**•** To improve our website in order to better serve you.
 
-Faciem ille remis? Minorque tam lacertis, sed tenus dies sensit: omnis cui eras
-imago proles terricula ambiguus Martis ex traxit positoque. Nihil plectrumque
-quibus leviore illi tantum cladibus: a tibi ducum oculis, Hibero. Ducere Aeneae.
+### How do we protect your information?
 
-## Temperie Cyane suo Thybris peteret favorque liber
+We do not use vulnerability scanning and/or scanning to PCI standards.  
+We only provide articles and information. We never ask for credit card numbers.  
+We use regular Malware Scanning.  
+We do not use an SSL certificate  
+**•** We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
 
-Quisque viribus tellus aut contemptuque Cycnum odium, usus inposuit! Ense
-decerptas ieiunia cedere adversos: domum aer vobis pedibusque *odissem* protinus
-*incipiat fert*? Non est annum Aeacidae harenas, hortaturque induxerat matrem
-aestus denique nam vult nautae intravit densi fictumque, pars.
+### Do we use ‘cookies’?
 
-Supposito denique aras medio dies, dare timeri numina praefoderat intravit nil
-fuit gesserunt. Superare ignis sed, seu doctos iuveni vanum, tota obnoxius e
-navale.
+We do not use cookies for tracking purposes  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+If you turn cookies off, some features will be disabled. that make your site experience more efficient and may not function properly.  
+However, you will still be able to place orders .
+
+### Third-party disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+
+### Third-party links
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### Google
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en  
+We have not enabled Google AdSense on our site but we may do so in the future.
+
+### COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.  
+We do not specifically market to children under the age of 13 years old.
+
+### Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**  
+We will notify the users via in-site notification
+
+**•** Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+### CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+#### We collect your email address in order to:
+
+Send information, respond to inquiries, and/or other requests or questions
+
+#### To be in accordance with CANSPAM, we agree to the following:
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at  
+and we will promptly remove you from **ALL** correspondence.
+
+#### Contacting Us
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+www.codedine.com  
+Chennai, Tamilnadu 600089.  
+India  
+codedine94@gmail.com
+
+(Last Edited on Sep 2nd 2021)

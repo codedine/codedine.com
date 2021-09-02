@@ -3,57 +3,139 @@ title: Terms and Conditions
 excerpt: Terms and Conditions
 ---
 
-# Nepotum veteres
+Introduction
+------------
 
-## Meris parabat
+These terms and conditions govern your use of this website; by using this website, you accept these terms and conditions in full and without reservation. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this website.
 
-Lorem markdownum quo, proelia frui, visa gutture excedit resedit. Ante medeatur
-Iovemque inaequales simul turba cruor trementes verbis: vultum cupit sunt canos,
-iaculabile. Putator testantia *pax foliis*, est et properas, quis iuvenes; quod
-causa attonitum trepidi. Caelo cruentati decus grandiaque cepit dare Astypaleia
-penatis aera rubent quicquam, **ad petit** certamina augur. Mea Aiax repugnat.
+You must be at least 18 \[eighteen\] years of age to use this website. By using this website and by agreeing to these terms and conditions, you warrant and represent that you are at least 18 years of age.
 
-    wins_web_vertical(reimageDithering.infotainment_cd_input(-1,
-            windowsFileCharacter, disk), leaf_leaderboard - systemVersionSite *
-            1);
-    compressionHypertext += rootkit_regular_quad;
-    var lossy = sequence;
-    ssd_windows_paste = font_chipset_igp(85);
+License to use website
+----------------------
 
-**Corpora ter crimen** eductam et montis, sed fuit postquam super hos, fueritque
-**clamoribus** en fecundo chordas. Defensamus fuisse sit margine Veneri Titania
-genetricis refers et adunco non, aures quem per mihi peperisse. Contemptuque
-tecta, mos illum vestibus signatur et regione credat ab.
+Unless otherwise stated, codedine.com and/or its licensors own the intellectual property rights published on this website and materials used on codedine.com. Subject to the license below, all these intellectual property rights are reserved.
 
-## Credita petis est erat
+You may view, download for caching purposes only, and print pages, files or other content from the website for your own personal use, subject to the restrictions set out below and elsewhere in these terms and conditions.
 
-Taeda ex est nox lumina **occupat** odiumque in iubeo causamque: **vento**
-patuit summoque postquam refert. Sinit suo meo accendere mollit mutando. Axis
-Molpeus. Tibi est dedit naturaeque mandere pavet cinctasque *reseret*; fuit
-dicta promittes letifer dapes.
+You must not:
 
-    quad.parseTweak -= pack(point(wddmUtility, class, -4)) + fpu_file;
-    mp.lcdNewsgroupBitmap = bitrate_grep(cd(ram, 756136, tagBiometrics));
-    rom += controllerWebKbps(pc_add_ppc, 28, dsl_leaderboard_terahertz(simplex +
-            denial));
+*   republish material from this website in neither print nor digital media or documents (including republication on another website);
+*   sell, rent or sub-license material from the website;
+*   show any material from the website in public;
+*   reproduce, duplicate, copy or otherwise exploit material on this website for a commercial purpose;
+*   edit or otherwise modify any material on the website;
+*   redistribute material from this website – except for content specifically and expressly made available for redistribution; or
+*   republish or reproduce any part of this website through the use of iframes or screenscrapers.
 
-Pugna et urbem tumulos numquam exspatiemur iuxta ait secunda guttur loca quod
-regem dabat ocior scire tela *letum*? Fontis liquores, teneo levi non premunt
-pericula, ad erat pennis tangit, adfatur natisque [nihil](http://me.io/),
-funesti. Aquas Cyane, subest **blanditiis ullis** promptior nobis inpune numina
-semina et Bona dique etiam esset, meruit et parte. Spartana neque exspectato:
-ramis uva ad Aonius satis femineo de dextra dedit marem fecimus, ad erit. Ut
-tenues fingit, ore mora promptum belli potitur: ita tectis locum; tristis
-vulnere dies albus.
+Where content is specifically made available for redistribution, it may only be redistributed within your organisation.
 
-Incaluit consilium revincta annis, rursus muneris. Inminet agunt. Ibat
-maestaeque melius causa: male ossa, unda fundae mea, illa iactato, in augendo
-quoque? Ut **viribus** nec etiam ipso invenit erit aliter, et *avus est*
-bracchia divum, Smilace? Levi sternentemque poena iacent figuram caelestia
-citharae dolebat, **undas fortunata** arbor statione in sumite aspice
-squamigeris notum.
+Acceptable use
+--------------
 
-Minimo cum contentis leti patulis scire vota ullas *missus at ipse* raucis
-*ille* Phoebus cuncta. Et iter latos: agmine turis mea nunc, qui post cumque. Et
-seu terras hos virgo avia dei Niseia, Opem aras umbra, quaeritis facerent in
-aethere.
+You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of codedine.com or in any way which is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity.
+
+You must not use this website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software.
+
+You must not conduct any systematic or automated data collection activities on or in relation to this website without codedine.com’s express written consent.  
+This includes:
+
+*   scraping
+*   data mining
+*   data extraction
+*   data harvesting
+*   ‘framing’ (iframes)
+*   Article ‘Spinning’
+
+You must not use this website or any part of it to transmit or send unsolicited commercial communications.
+
+You must not use this website for any purposes related to marketing without the express written consent of codedine.com.
+
+Restricted access
+-----------------
+
+Access to certain areas of this website is restricted. codedine.com reserves the right to restrict access to certain areas of this website, or at our discretion, this entire website. codedine.com may change or modify this policy without notice.
+
+If codedine.com provides you with a user ID and password to enable you to access restricted areas of this website or other content or services, you must ensure that the user ID and password are kept confidential. You alone are responsible for your password and user ID security..
+
+codedine.com may disable your user ID and password at codedine.com’s sole discretion without notice or explanation.
+
+User content
+------------
+
+In these terms and conditions, “your user content” means material (including without limitation text, images, audio material, video material and audio-visual material) that you submit to this website, for whatever purpose.
+
+You grant to codedine.com a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate and distribute your user content in any existing or future media. You also grant to codedine.com the right to sub-license these rights, and the right to bring an action for infringement of these rights.
+
+Your user content must not be illegal or unlawful, must not infringe any third party’s legal rights, and must not be capable of giving rise to legal action whether against you or codedine.com or a third party (in each case under any applicable law).
+
+You must not submit any user content to the website that is or has ever been the subject of any threatened or actual legal proceedings or other similar complaint.
+
+codedine.com reserves the right to edit or remove any material submitted to this website, or stored on the servers of codedine.com, or hosted or published upon this website.
+
+codedine.com’s rights under these terms and conditions in relation to user content, codedine.com does not undertake to monitor the submission of such content to, or the publication of such content on, this website.
+
+No warranties
+-------------
+
+This website is provided “as is” without any representations or warranties, express or implied. codedine.com makes no representations or warranties in relation to this website or the information and materials provided on this website.
+
+Without prejudice to the generality of the foregoing paragraph, codedine.com does not warrant that:
+
+*   this website will be constantly available, or available at all; or
+*   the information on this website is complete, true, accurate or non-misleading.
+
+Nothing on this website constitutes, or is meant to constitute, advice of any kind. If you require advice in relation to any legal, financial or medical matter you should consult an appropriate professional.
+
+Limitations of liability
+------------------------
+
+codedine.com will not be liable to you (whether under the law of contact, the law of torts or otherwise) in relation to the contents of, or use of, or otherwise in connection with, this website:
+
+*   to the extent that the website is provided free-of-charge, for any direct loss;
+*   for any indirect, special or consequential loss; or
+*   for any business losses, loss of revenue, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data.
+
+These limitations of liability apply even if codedine.com has been expressly advised of the potential loss.
+
+Exceptions
+----------
+
+Nothing in this website disclaimer will exclude or limit any warranty implied by law that it would be unlawful to exclude or limit; and nothing in this website disclaimer will exclude or limit the liability of codedine in respect of any:
+
+*   death or personal injury caused by the negligence of codedine.com or its agents, employees or shareholders/owners;
+*   fraud or fraudulent misrepresentation on the part of codedine.com; or
+*   matter which it would be illegal or unlawful for codedine.com to exclude or limit, or to attempt or purport to exclude or limit, its liability.
+
+Reasonableness
+--------------
+
+By using this website, you agree that the exclusions and limitations of liability set out in this website disclaimer are reasonable.
+
+If you do not think they are reasonable, you must not use this website.
+
+Breaches of these terms and conditions
+--------------------------------------
+
+Without prejudice to codedine.com’s other rights under these terms and conditions, if you breach these terms and conditions in any way, codedine.com may take such action as codedine.com deems appropriate to deal with the breach, including suspending your access to the website, prohibiting you from accessing the website, blocking computers using your IP address from accessing the website, contacting your internet service provider to request that they block your access to the website and/or bringing court proceedings against you.
+
+Variation
+---------
+
+codedine.com may revise these terms and conditions from time-to-time. Revised terms and conditions will apply to the use of this website from the date of the publication of the revised terms and conditions on this website. Please check this page regularly to ensure you are familiar with the current version.
+
+Assignment
+----------
+
+codedine.com may transfer, sub-contract or otherwise deal with codedine.com’s rights and/or obligations under these terms and conditions without notifying you or obtaining your consent.
+
+You may not transfer, sub-contract or otherwise deal with your rights and/or obligations under these terms and conditions.
+
+Severability
+------------
+
+If a provision of these terms and conditions is determined by any court or other competent authority to be unlawful and/or unenforceable, the other provisions will continue in effect. If any unlawful and/or unenforceable provision would be lawful or enforceable if part of it were deleted, that part will be deemed to be deleted, and the rest of the provision will continue in effect.
+
+Entire agreement
+----------------
+
+These terms and conditions, together with codedine.com’s Privacy Policy constitute the entire agreement between you and codedine.com in relation to your use of this website, and supersede all previous agreements in respect of your use of this website.
