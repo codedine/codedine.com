@@ -123,6 +123,10 @@ export default {
           property: 'og:image:secure_url',
           content: `${process.env.GRIDSOME_BASE_URL}/images/default-thumb.png`,
         },
+        {
+          name: 'yandex-verification',
+          content: '4729eeeab748fea9',
+        },
       ],
     }
   },
