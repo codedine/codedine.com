@@ -6,7 +6,6 @@ import GlobalMixin from '~/mixins/GlobalMixin'
 import Vssue from 'vssue'
 import Fuse from 'fuse.js'
 import GithubV4 from '@vssue/api-github-v4'
-import 'vssue/dist/vssue.css'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
@@ -27,7 +26,7 @@ export default function (Vue, { router, head, isClient }) {
     repo: process.env.GRIDSOME_VSSUE_REPO,
     clientId: process.env.GRIDSOME_VSSUE_CLIENT_ID,
     clientSecret: process.env.GRIDSOME_VSSUE_CLIENT_SECRET,
-    perPage: process.env.VSSUE_GRIDSOME_PERPAGE ?? 15,
-    autoCreateIssue: process.env.GRIDSOME_VSSUE_OWNER ?? false,
+    perPage: process.env.VSSUE_GRIDSOME_PERPAGE || 15,
+    autoCreateIssue: process.env.GRIDSOME_VSSUE_OWNER || false,
   })
 }
