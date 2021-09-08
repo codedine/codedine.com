@@ -27,35 +27,53 @@ In Javascript application the code can be easily formatted using VSCode plugin j
 
 Usually prettier will be installed in `package.json` as dev dependency. since we are using PHP we are going to install [Prettier PHP Plugin](https://github.com/prettier/plugin-php) globally through npm.
 
-    npm install --global prettier @prettier/plugin-php
+```bash
+npm install --global prettier @prettier/plugin-php
+```
 
 Once prettier is installed globally now you can run `prettier index.php` to format the code for a particular file. If you want to prettify codes of all php file inside a particular folder (lets say app folder) then you can run `prettier app/\*\*.php`.
 
 An example of badly formatted code will be as follow.
 
-    <?php
+```php
+<?php
     class FooBar implements FooInterface, BarInterface {
          public function __construct(FooInterface $foo, BarInterface $bar) {}
       public function izumi() { return $this->foo->izumi();}
      public function nakano() { return $this->bar->nakano();
       }}
+```
 
 which could be easily prettified using `prettier foobar.php` and formatted code looks as follow
 
-    <?php
-         
-    class FooBar implements FooInterface, BarInterface {
-    
-      public function __construct(FooInterface $foo, BarInterface $bar) {}
-      
-      public function izumi() {
-        return $this->foo->izumi();
-      }
-    
-      public function nakano() {
-        return $this->bar->nakano();
-      }
+```php
+<?php
+
+class FooBar implements FooInterface, BarInterface
+{
+    public function __construct(FooInterface $foo, BarInterface $bar)
+    {
     }
+
+    public function izumi()
+    {
+        return $this->foo->izumi();
+    }
+
+    public function nakano()
+    {
+        return $this->bar->nakano();
+    }
+}
+```
+
+Note: The formatted code will be displayed only on the terminal, the file will not be rewritten
+
+To rewrite the file pass `--write` parameter
+
+```bash
+prettier index.php --write
+```
 
 This is how prettify beautifies (rewrites beautifully) your code, which makes your code understandable and more readable.
 
@@ -68,16 +86,20 @@ Cool, now lets learn using Prettier in laravel application. Laravel is a super c
 
 First install your [laravel application](https://laravel.com/docs/8.x/installation) . Once you’ve installation completed open your composer.json file edit scripts block as follow
 
-    "scripts": {
-        "fix-cs": [
-            "prettier app/**/* database/**/* routes/**/* --write",
-            "php-cs-fixer fix"
-        ]
-    }
+```json
+"scripts": {
+    "fix-cs": [
+        "prettier app/**/* database/**/* routes/**/* --write",
+        "php-cs-fixer fix"
+    ]
+}
+```
 
 And finally save composer.json and run
 
-    composer fix-cs
+```bash
+composer fix-cs
+```
 
 Now codes inside app, database, folder inside laravel application will be automatically formatted based on PHP coding standard.
 
