@@ -2,7 +2,7 @@
 title: Laravel Accessors Mutators (Getters and Setters)
 path: /laravel-accessors-mutators-example
 date: 2021-09-09
-summary: Prettier is nothing but a code formatter, which re-formats the code. In this article we are going to see using prettier in laravel.
+summary: The mutators will modify (mutates) the data sent from the request, while accessors will return the data that are modified during the request.
 tags: ['accessors', 'mutators', 'accessors and mutators', 'getters and setters']
 categories: ['Laravel', 'PHP']
 thumbnail: ./accessors-and-mutators/accessors-and-mutators.png
