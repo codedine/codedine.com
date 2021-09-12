@@ -2,13 +2,13 @@
 title: Laravel Accessors Mutators (Getters and Setters)
 path: /laravel-accessors-mutators-example
 date: 2021-09-09
-summary: The mutators will modify (mutates) the data sent from the request, while accessors will return the data that are modified during the request.
+summary: Laravel Accessors Mutators - The mutators will modify the data, while accessors will return the data that are modified during the request.
 tags: ['accessors', 'mutators', 'accessors and mutators', 'getters and setters']
 categories: ['Laravel', 'PHP']
 thumbnail: ./accessors-and-mutators/accessors-and-mutators.png
 ---
 
-## Introduction - Laravel Mutators Accessors
+## Introduction - Laravel Accessors Mutators
 
 [`Eloquent Mutators`](https://laravel.com/docs/5.8/eloquent-mutators) are used to modify the value of the particular field in the database before we save or update the object model. Whereas `Accessors` will format the value from database and returns in the format we want to. let see both in action. In Laravel in `users` table we have following fields:
 
