@@ -5,7 +5,7 @@ date: 2021-09-09
 summary: Laravel Accessors Mutators - The mutators will modify the data, while accessors will return the data that are modified during the request.
 tags: ['accessors', 'mutators', 'accessors and mutators', 'getters and setters']
 categories: ['Laravel', 'PHP']
-thumbnail: ./accessors-and-mutators/accessors-and-mutators.png
+thumbnail: ./2021-09-09-accessors-and-mutators.png
 ---
 
 ## Introduction - Laravel Accessors Mutators

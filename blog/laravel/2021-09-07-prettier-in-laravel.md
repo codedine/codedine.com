@@ -5,7 +5,7 @@ date: 2021-09-07
 summary: Prettier is nothing but a code formatter, which re-formats the code. In this article we are going to see using prettier in laravel.
 tags: ['prettier in laravel', 'prettier', 'format code']
 categories: ['Laravel', 'PHP']
-thumbnail: ./prettier-in-laravel/prettier-in-laravel.png
+thumbnail: ./2021-09-07-prettier-in-laravel.png
 ---
 
 What is Prettier?
