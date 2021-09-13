@@ -48,7 +48,9 @@ laravel new blog
 
 Alternatively, you can also install Laravel by using the Composer `create-project` command in your terminal.
 
+```bash
 composer create-project --prefer-dist laravel/laravel blog
+```
 
 if you want to install specific version of Laravel you can use the following command. Let say I want to install Laravel 5.5
 
@@ -66,11 +68,13 @@ php artisan serve
 
 Let us assume you've install mysql and created a database name `blog`. Now setup the database configuration inside the **.env** file.
 
+```bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=blog
 DB_USERNAME=root
 DB_PASSWORD=root
+```
 
 Thanks for reading :) Any queries leave comments.
