@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full flex flex-col my-4">
+  <div class="w-full flex flex-col my-4 sticky top-5">
     <p class="text-xl font-semibold pb-5">Ads</p>
     <p class="pb-2">
       <Adsense

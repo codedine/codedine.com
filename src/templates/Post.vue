@@ -62,6 +62,17 @@
             {{ tag.title }}
           </g-link>
         </div>
+
+        <div class="text-center">
+          <Adsense
+            data-ad-client="ca-pub-6367184538164263"
+            data-ad-slot="9046215074"
+            data-ad-format="auto"
+            data-full-width-responsive="on"
+          >
+          </Adsense>
+        </div>
+
         <div class="text-center mb-8">
           <g-link
             to="/blog"
