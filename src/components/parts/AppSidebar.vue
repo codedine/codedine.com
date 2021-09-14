@@ -1,6 +1,14 @@
 <template>
   <div class="w-full flex flex-col my-4">
     <p class="text-xl font-semibold pb-5">Ads</p>
-    <p class="pb-2"></p>
+    <p class="pb-2">
+      <Adsense
+        data-ad-client="ca-pub-6367184538164263"
+        data-ad-slot="1042574308"
+        data-ad-format="auto"
+        data-full-width-responsive="yes"
+      >
+      </Adsense>
+    </p>
   </div>
 </template>

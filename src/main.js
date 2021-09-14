@@ -29,4 +29,7 @@ export default function (Vue, { router, head, isClient }) {
     perPage: process.env.VSSUE_GRIDSOME_PERPAGE || 15,
     autoCreateIssue: process.env.GRIDSOME_VSSUE_OWNER || false,
   })
+
+  Vue.use(require('vue-script2'))
+  Vue.use(require('vue-google-adsense/dist/Adsense.min.js'))
 }
