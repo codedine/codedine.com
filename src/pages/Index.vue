@@ -38,6 +38,15 @@
             More Posts
           </g-link>
         </div>
+
+        <Adsense
+          class="mt-3"
+          data-ad-client="ca-pub-6367184538164263"
+          data-ad-slot="2064307081"
+          data-ad-format="auto"
+          data-full-width-responsive="on"
+        >
+        </Adsense>
       </div>
     </section>
   </Layout>
