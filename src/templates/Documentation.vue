@@ -4,7 +4,7 @@
       <div class="container mx-auto flex flex-wrap py-8">
         <div class="w-full md:w-2/3 flex flex-col">
           <div class="markdown-body pl-2 pr-2 md:pr-10">
-            <div class="text-center" v-if="process.env.SHOW_ADS">
+            <div class="text-center">
               <Adsense
                 data-ad-client="ca-pub-6367184538164263"
                 data-ad-slot="4661436874"

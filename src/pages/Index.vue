@@ -40,7 +40,6 @@
         </div>
 
         <Adsense
-          v-if="process.env.SHOW_ADS"
           class="mt-3"
           data-ad-client="ca-pub-6367184538164263"
           data-ad-slot="2064307081"

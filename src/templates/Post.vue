@@ -63,7 +63,7 @@
           </g-link>
         </div>
 
-        <div class="text-center" v-if="process.env.SHOW_ADS">
+        <div class="text-center">
           <Adsense
             data-ad-client="ca-pub-6367184538164263"
             data-ad-slot="9046215074"
