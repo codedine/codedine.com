@@ -63,7 +63,7 @@
           </g-link>
         </div>
 
-        <div class="text-center">
+        <div class="text-center" v-if="$static.metadata.siteShowAds">
           <Adsense
             data-ad-client="ca-pub-6367184538164263"
             data-ad-slot="9046215074"
@@ -179,6 +179,7 @@ query {
     siteTitle
     siteDescription
     siteAuthor
+    siteShowAds
   }
 }
 </static-query>

@@ -56,7 +56,7 @@
       </li>
     </ul>
 
-    <div class="mt-5">
+    <div class="mt-5" v-if="$static.metadata.siteShowAds">
       <Adsense
         data-ad-client="ca-pub-6367184538164263"
         data-ad-slot="1324827090"
@@ -67,6 +67,14 @@
     </div>
   </div>
 </template>
+
+<static-query>
+query {
+  metadata {
+    siteShowAds
+  }
+}
+</static-query>
 
 <script>
 export default {

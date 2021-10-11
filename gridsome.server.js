@@ -18,6 +18,7 @@ module.exports = function (api) {
       'siteAuthorUrl',
       process.env.SITE_AUTHOR_URL || 'https://github.com/xqsit94"'
     )
+    addMetadata('siteShowAds', process.env.SITE_SHOW_ADS || false)
 
     const category = addCollection('Category')
     category.addReference('categories', 'Category')

@@ -40,6 +40,7 @@
         </div>
 
         <Adsense
+          v-if="$static.metadata.siteShowAds"
           class="mt-3"
           data-ad-client="ca-pub-6367184538164263"
           data-ad-slot="2064307081"
@@ -80,6 +81,7 @@ query {
     siteTitle
     siteDescription
     siteAuthor
+    siteShowAds
   }
 }
 </static-query>
