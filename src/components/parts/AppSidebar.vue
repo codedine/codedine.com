@@ -1,7 +1,7 @@
 <template>
   <div class="w-full flex flex-col my-4 sticky top-5">
     <p class="text-xl font-semibold pb-5">Ads</p>
-    <p class="pb-2">
+    <p class="pb-2" v-if="process.env.SHOW_ADS">
       <Adsense
         data-ad-client="ca-pub-6367184538164263"
         data-ad-slot="1042574308"
